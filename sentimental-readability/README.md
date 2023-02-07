@@ -43,7 +43,7 @@ python3 -m venv venv
 pwd  
 ```
 
-Get the path and add source {path}/venv.bin/activate to activate the virtual enviroment:
+Get the path and add source {path}/venv/bin/activate to activate the virtual enviroment:
 ```bash
 source /Users/joaorfp/Desktop/nome_do_projeto/venv/bin/activate
 ```

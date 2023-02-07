@@ -51,7 +51,7 @@ pip install cs50
 
 Run python
 ```bash
-python hello.py
+$ python hello.py
 ```
 
 Type some name

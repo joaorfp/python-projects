@@ -51,7 +51,7 @@ pip install cs50
 
 Run python
 ```bash
-python cash.py
+$ python cash.py
 ```
 
 Type the change owed

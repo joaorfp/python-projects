@@ -56,7 +56,7 @@ pip install cs50
 
 Run flask and navigate to the local URL
 ```bash
-flask run
+$ flask run
 ```
 Then navigate to [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
 

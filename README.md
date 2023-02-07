@@ -1,6 +1,6 @@
 # Python projects
 
-This repo has couple projects that I've done in the CS50x Harvard Course. Feel free to use the projects. Each one of them has a readme, please follow the instructions inside the readme.
+This repo has couple projects that I've done in the CS50x Harvard Course. Feel free to use the projects. Each one of them has a readme, please follow the instructions inside each readme.
 
 ### Navigation
 

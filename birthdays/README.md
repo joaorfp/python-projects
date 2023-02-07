@@ -38,7 +38,7 @@ venv\Scripts\activate
 
 Then you should see the terminal like this:
 ```bash
-source /Users/joaorfp/Desktop/nome_do_projeto/venv/bin/activate
+$ (venv)
 ```
 
 ### Installing depencencies

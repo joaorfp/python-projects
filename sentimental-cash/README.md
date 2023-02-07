@@ -27,7 +27,7 @@ pwd
 
 Get the path and add source {path}/venv.bin/activate to activate the virtual enviroment:
 ```bash
-source /Users/joaorfp/Desktop/nome_do_projeto/venv/bin/activate
+source /Users/joaorfp/Desktop/project_name/venv/bin/activate
 ```
 
 On windows:
@@ -37,12 +37,12 @@ venv\Scripts\activate
 
 Then you should see the terminal like this:
 ```bash
-source /Users/joaorfp/Desktop/nome_do_projeto/venv/bin/activate
+$ (venv)
 ```
 
 ### Installing depencencies
 
-Use the package manager pip to install flask and cs50
+Use the package manager pip to install cs50
 ```bash
 pip install cs50
 ```

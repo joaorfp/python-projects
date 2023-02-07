@@ -10,6 +10,8 @@ Remember to put points('!', '?', '.') at the end of the sentence.
 
 ## Installation and Initialization
 
+#### Linux
+
 Install a virtual enviroment to start the project:
 ```bash
 sudo apt-get install python3-venv  
@@ -20,19 +22,38 @@ Start the virtual enviroment:
 python3 -m venv venv 
 ```
 
+#### macOS
+
+Start the virtual enviroment:
+```bash
+python3 -m venv venv 
+```
+
+#### Windows
+
+Start the virtual enviroment:
+```bash
+python3 -m venv venv 
+```
+
 ### Using the virtual enviroment
 
-On linux or macOS:
+#### Linux or macOS
 ```bash
 pwd  
 ```
 
 Get the path and add source {path}/venv.bin/activate to activate the virtual enviroment:
 ```bash
-source /Users/joaorfp/Desktop/project_name/venv/bin/activate
+source /Users/joaorfp/Desktop/nome_do_projeto/venv/bin/activate
 ```
 
-On windows:
+Then you should see the terminal like this:
+```bash
+$ (venv)
+```
+
+#### Windows
 ```bash
 venv\Scripts\activate
 ```
@@ -41,6 +62,7 @@ Then you should see the terminal like this:
 ```bash
 $ (venv)
 ```
+
 
 ### Installing depencencies
 
